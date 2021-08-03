@@ -1,8 +1,8 @@
-# gotemplate
+# go-zimi
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/danstis/gotemplate?style=flat-square)](https://goreportcard.com/report/github.com/danstis/gotemplate)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/danstis/gotemplate)](https://pkg.go.dev/github.com/danstis/gotemplate)
-[![Release](https://img.shields.io/github/release/danstis/gotemplate.svg?style=flat-square)](https://github.com/danstis/gotemplate/releases/latest)
+[![Go Report Card](https://goreportcard.com/badge/github.com/danstis/go-zimi?style=flat-square)](https://goreportcard.com/report/github.com/danstis/go-zimi)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/danstis/go-zimi)](https://pkg.go.dev/github.com/danstis/go-zimi)
+[![Release](https://img.shields.io/github/release/danstis/go-zimi.svg?style=flat-square)](https://github.com/danstis/go-zimi/releases/latest)
 
 My base repo template for Go projects.
 

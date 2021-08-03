@@ -1,3 +1,3 @@
-module github.com/danstis/gotemplate
+module github.com/danstis/go-zimi
 
 go 1.14
