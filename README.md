@@ -1,3 +1,5 @@
+PROJECT IS ARCHIVED.
+
 # go-zimi
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/danstis/go-zimi?style=flat-square)](https://goreportcard.com/report/github.com/danstis/go-zimi)
